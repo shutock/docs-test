@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cfd9f62aea1d6b94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asdasdasdsda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test 2.md",
+                "file": "asdasdasdsda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test 2.md",
+                "file": "asdasdasdsda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test 2.md"
+                "file": "asdasdasdsda.md"
               }
             }
           }
@@ -159,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f50a4ce9b5d11c75",
+  "active": "cfd9f62aea1d6b94",
   "lastOpenFiles": [
-    "test.md",
+    "hello world.md",
+    "asdasdasdsda.md",
     "test 2.md",
+    "test.md",
     "Test.md"
   ]
 }
