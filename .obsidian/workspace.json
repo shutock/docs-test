@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "test 2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -173,10 +173,10 @@
   },
   "active": "cfd9f62aea1d6b94",
   "lastOpenFiles": [
-    "asdasdasdsda.md",
-    "hello world.md",
-    "test 2.md",
     "test.md",
+    "hello world.md",
+    "asdasdasdsda.md",
+    "test 2.md",
     "Test.md"
   ]
 }

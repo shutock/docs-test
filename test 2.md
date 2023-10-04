@@ -12,3 +12,10 @@ const main = async () => {
 	console.log(`${layerZeroScore.name} score of ${address} is ${score}`)
 }
 ```
+- asdasd
+- asd
+- as
+- das
+- da
+- sd
+- a
