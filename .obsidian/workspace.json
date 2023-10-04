@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "33febea1b6812c2d",
+        "id": "9b1b7bf25d232ff2",
         "type": "tabs",
         "children": [
           {
-            "id": "3096ad76c6682960",
+            "id": "c9f48ff10a722ca8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/test-2.mdx",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pages/test-2.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pages/test-2.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/yo/hello-world.md"
+                "file": "pages/test-2.mdx"
               }
             }
           }
@@ -140,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7414ed59a35f9f8e",
+  "active": "c9f48ff10a722ca8",
   "lastOpenFiles": [
+    "adsad addasd.md",
+    "public/nomis-logo.svg",
     "pages/yo/hello-world.mdx",
     "pages/yo/hello-world.md",
-    "public/nomis-logo.svg",
     "public",
     "pages/test-2.mdx",
     "pages/test.mdx",
