@@ -11,40 +11,11 @@
             "id": "3096ad76c6682960",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f50a4ce9b5d11c75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfd9f62aea1d6b94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test 2.md"
+                "file": "pages/yo/hello-world.md"
               }
             }
           }
@@ -171,12 +140,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfd9f62aea1d6b94",
+  "active": "7414ed59a35f9f8e",
   "lastOpenFiles": [
+    "pages/yo/hello-world.mdx",
+    "pages/yo/hello-world.md",
+    "public/nomis-logo.svg",
+    "public",
+    "pages/test-2.mdx",
+    "pages/test.mdx",
+    "pages/test 2.mdx",
+    "pages/yo/hello world.mdx",
+    "pages/yo/asdasdasdsda.mdx",
+    "pages/yo/hello world.md",
+    "pages/yo/asdasdasdsda.md",
+    "pages/yo",
     "test.md",
-    "hello world.md",
-    "asdasdasdsda.md",
+    "pages/test.md",
     "test 2.md",
-    "Test.md"
+    "pages/test 2.md",
+    "pages/hello world.md",
+    "pages/asdasdasdsda.md",
+    "theme.config.tsx",
+    "next.config.js",
+    "node_modules/@types/node/README.md",
+    "node_modules/typescript/SECURITY.md",
+    "node_modules/typescript/README.md",
+    "node_modules/next/README.md",
+    "node_modules/next/license.md",
+    "node_modules/mermaid/README.zh-CN.md",
+    "node_modules/mermaid/README.md",
+    "node_modules/lodash/release.md",
+    "node_modules/lodash/README.md",
+    "node_modules/caniuse-lite/README.md",
+    "node_modules/shiki/README.md",
+    "node_modules/cytoscape-fcose/README.md",
+    "node_modules/lodash-es/release.md",
+    "node_modules/lodash-es/README.md",
+    "node_modules/cytoscape/README.md",
+    "node_modules/dayjs/README.md",
+    "node_modules/cytoscape-fcose/node_modules/layout-base/layout-schema.png",
+    "node_modules/next-mdx-remote/header.png",
+    "node_modules/layout-base/layout-schema.png",
+    "node_modules/non-layered-tidy-tree-layout/screenshots/1.png",
+    "node_modules/cytoscape-fcose/demo/incrementalConstraints.gif",
+    "node_modules/cytoscape-fcose/demo/demo.gif"
   ]
 }
